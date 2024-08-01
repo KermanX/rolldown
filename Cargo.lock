@@ -2319,6 +2319,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "rolldown_plugin_manifest"
+version = "0.1.0"
+
+[[package]]
 name = "rolldown_plugin_wasm"
 version = "0.1.0"
 dependencies = [
