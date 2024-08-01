@@ -2319,6 +2319,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "rolldown_plugin_manifest"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "dashmap 6.0.1",
+ "pathdiff",
+ "rolldown_common",
+ "rolldown_plugin",
+ "rustc-hash",
+]
+
+[[package]]
 name = "rolldown_plugin_wasm"
 version = "0.1.0"
 dependencies = [
